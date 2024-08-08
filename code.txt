@@ -1,0 +1,45 @@
+@prefix ex:    <https://haru-2.github.io/Last/Last.ttl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+ex:‘    ex:country  ex:China , ex:Korea , ex:Japan .
+
+ex:‚³‚¢‚½‚Ü  ex:cityID   "1007" ;
+        ex:‚³‚¢‚½‚ÜŽs‚É—×Ú  ex:•xŽmŒ© , ex:’©‰à , ex:˜n , ex:‰z’J , ex:Žu–Ø , ex:ã”ö , ex:t“ú•” , ex:”’‰ª , ex:ŒË“c , ex:ì‰z , ex:˜@“c .
+
+ex:‹gì   ex:cityID  "2437" ;
+        ex:‹gìŽs‚É—×Ú  ex:—¬ŽR , ex:–ì“c , ex:ŽO‹½ , ex:¼•š , ex:‰z’J , ex:‘‰Á .
+
+ex:é‹Ê   ex:Žs        ex:•xŽmŒ© , ex:ã”ö , ex:’©‰à , ex:t“ú•” , ex:˜@“c , ex:‹gì , ex:‰z’J , ex:”’‰ª , ex:Žu–Ø , ex:‚³‚¢‚½‚Ü , ex:ìŒû , ex:‘‰Á , ex:˜n , ex:ì‰z ;
+        ex:’¬        ex:™ŒË , ex:‹{‘ã , ex:¼•š ;
+        ex:“s“¹•{Œ§ƒR[ƒh  "11" .
+
+ex:“È–Ø   ex:“s“¹•{Œ§ƒR[ƒh  "9" .
+
+ex:“Œ‹ž   ex:‹æ        ex:–k‹æ , ex:‘«—§‹æ ;
+        ex:“s“¹•{Œ§ƒR[ƒh  "13" .
+
+ex:‰z’J   ex:cityID  "2224" ;
+        ex:‰z’JŽs‚É—×Ú  ex:t“ú•” , ex:‚³‚¢‚½‚Ü , ex:‹gì , ex:ìŒû , ex:‘‰Á , ex:¼•š .
+
+ex:ç—t   ex:Žs        ex:—¬ŽR , ex:–ì“c ;
+        ex:“s“¹•{Œ§ƒR[ƒh  "12" .
+
+ex:ˆïé   ex:“s“¹•{Œ§ƒR[ƒh  "8" .
+
+ex:t“ú•”  ex:cityID   "2143" ;
+        ex:t“ú•”Žs‚É—×Ú  ex:–ì“c , ex:¼•š , ex:™ŒË , ex:‹{‘ã , ex:”’‰ª , ex:‰z’J , ex:‚³‚¢‚½‚Ü .
+
+ex:ŒQ”n   ex:“s“¹•{Œ§ƒR[ƒh  "10" .
+
+ex:‘‰Á   ex:cityID  "2216" ;
+        ex:‘‰ÁŽs‚É—×Ú  ex:‘«—§‹æ , ex:‹gì , ex:ŽO‹½ , ex:”ª’ª , ex:‰z’J , ex:ìŒû .
+
+ex:_“Þì  ex:“s“¹•{Œ§ƒR[ƒh  "14" .
+
+ex:Japan  ex:prefecture  ex:“È–Ø , ex:ˆïé , ex:ŒQ”n , ex:_“Þì , ex:ç—t , ex:“Œ‹ž , ex:é‹Ê .
+
+ex:¼•š   ex:cityID  "4651" ;
+        ex:¼•š’¬‚É—×Ú  ex:‹gì , ex:–ì“c , ex:‰z’J , ex:t“ú•” .
+
+ex:ìŒû   ex:cityID  "2038" ;
+        ex:ìŒûŽs‚É—×Ú  ex:–k‹æ , ex:‘«—§‹æ , ex:ŒË“c , ex:˜n , ex:‚³‚¢‚½‚Ü , ex:‰z’J , ex:‘‰Á .
